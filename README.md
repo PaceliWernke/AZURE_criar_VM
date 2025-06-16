@@ -4,11 +4,11 @@ LAB para ciração de VM no Portal AZURE
 ### Criar máquina virtual
     - Já autenticado no Portal Azure, buscar na barra de pesquisa por "Máquinas Virtuais"
     - Selecione o serviço "Máquinas Virtuais"
-    ![image](https://github.com/user-attachments/assets/55904f59-0176-4c39-9048-13f2e954b60f)
+![image](https://github.com/PaceliWernke/AZURE_criar_VM/blob/main/imagens/1.png)
 
-    - Em Serviços, selecione Máquinas virtuais.
+    Já na página Máquinas virtuais, clique em Criar e selecione Máquina virtual. A página Criar uma máquina virtual é aberta.
+![image](https://github.com/PaceliWernke/AZURE_criar_VM/blob/main/imagens/2.png)
 
-    Na página Máquinas virtuais, clique em Criar e selecione Máquina virtual do Azure. A página Criar uma máquina virtual é aberta.
 
     Em Detalhes da instância, insira myVM no Nome da máquina virtual e escolha Windows Server 2022 Datacenter: Azure Edition - x64 Gen 2 na Imagem. Deixe os outros padrões.
 
